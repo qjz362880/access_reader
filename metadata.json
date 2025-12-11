@@ -1,0 +1,7 @@
+{
+  "name": "AccessReader",
+  "description": "An assistive text reader with magnification, high contrast modes, and focus tools for enhanced readability.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}

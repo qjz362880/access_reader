@@ -12,11 +12,10 @@ export const SAMPLE_TEXT = `Welcome to AccessReader.
 
 This assistive tool is designed to create a personalized, accessible reading environment tailored to your needs. To get started, use the "Open File" button at the bottom to load a .txt, .pdf, or .docx document.
 
-🎤 Voice Control (New!)
-Enable "Microphone" in the Right Sidebar to control the app hands-free:
-• Navigation: Say "Next" or "Previous" to jump between paragraphs.
-• Reading: Say "Read All" to start continuous reading, or "Stop" to pause.
-• Modes: Say "Magnifier On/Off", "Focus Mode On/Off", or "Bionic On/Off".
+🔍 Magnification & Study Tools
+• Magnifier: Enable the lens in the sidebar to view text under your cursor at high magnification.
+• Marker Mode: Highlight specific words or sentences within a paragraph.
+• Notes: Click any paragraph to select it, then add your personal notes in the sidebar.
 
 🔊 Read Aloud & Audio
 Located in the Right Sidebar:
@@ -30,14 +29,15 @@ Located in the Bottom Toolbar:
 • Focus Mode: Dims all text except the paragraph you are currently reading.
 • Hover Zoom: Automatically enlarges the text block you are hovering over.
 
-🔍 Magnification & Study Tools
-• Magnifier: Enable the lens in the sidebar to view text under your cursor at high magnification.
-• Marker Mode: Highlight specific words or sentences within a paragraph.
-• Notes: Click any paragraph to select it, then add your personal notes in the sidebar.
-
 🎨 Appearance Customization
 • Themes: High Contrast (Yellow/Black), E-Ink (Paper-like), Sepia, Dark, and Light.
 • Typography: Adjust font size and font family (Sans, Serif, Mono).
+
+🎤 Voice Control
+Enable "Microphone" in the Right Sidebar to control the app hands-free:
+• Navigation: Say "Next" or "Previous" to jump between paragraphs.
+• Reading: Say "Read All" to start continuous reading, or "Stop" to pause.
+• Modes: Say "Magnifier On/Off", "Focus Mode On/Off", or "Bionic On/Off".
 
 Keyboard Shortcuts:
 • Arrow Keys: Navigate between paragraphs.
